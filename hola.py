@@ -6,6 +6,7 @@ import numpy as np
 
 #creamos el título de la app
 st.title("Mi primera App")
+st.header("Valeria Román Aguirre")
 st.header("Demo Titanic App")
 st.write("Graficas del dataset")
 
